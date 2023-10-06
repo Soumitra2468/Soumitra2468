@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/soumitra-samanta-07a437254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumitra samanta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100086766076598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumitra samanta" height="30" width="40" /></a>
-<a href="https://instagram.com/soumitra_samanta2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumitra_samanta2468" height="30" width="40" /></a>
+<a href="https://www.instagram.com/soumitra_samanta2468/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumitra_samanta2468" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
